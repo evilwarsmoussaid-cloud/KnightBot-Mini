@@ -4,19 +4,19 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['9876543210'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['212617503205'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['Evil Imranos'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
+    botName: 'Evil Imranos Bot',
     prefix: ',',
     sessionName: 'session',
-    sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
+    sessionID: process.env.SESSION_ID || 'KnightBot!H4sIAAAAAAAAA5VU246jOBT8F78mmoaEW0dqaYGQQIeQ+43VPhhwiBswYBsIGeXfV6Snp0cr7Wzvm2+qU6eqjr8DkmOGZqgFo++goLiGHHVL3hYIjIBRnc+Igj6IIIdgBOb665JMt5PNfkezpmq03LqG67WYnKOpkSm2Q0uPmk1pp9ILuPdBUQUpDn8DOBhPaF3ILvLak2XEk6OxcVIduzeKC6+GjSoVmuW4LrFXL+DeIUJMMYmt4oIyRGE6Q+0SYvo1+plhP50H7pE7CScePTsDZy5vpdtRPrSvQq8MNseV0kuU133yNfr6k0COg1ILlxtXp4cJacRNvA9uile4BZoVY5Gnb03p77faO32GY4IiJ0KEY95+WXfdvkHyhNOhlAS9k0FvZPW22AxOz81+l8vlLhhGEsJZeEmbrxGXJ2vF31ar3TWNCtPKfde5Cf4pCbK1NA2DonTQzVDW7HwIfyW+pB9ZSf6P7jt3sYYnFk9rW2+HPHQWZk6DafQaa5KSr5W5QJb7U+wKuy/Sb9VLKqlDWDR+zrzQe00CC85TT7SUJ1wJxlW6WBnVeroofdKHvKK/Y0mG/tN1u3UPg7F3SESyWZrLnXYks+LcmLrqxzb3VIe2eZqEUlwolRP4cCa3W0E2ikzQLxo7VqvlCt2i1XnZCOq1ORjNy6OjBLVOBEbivQ8oijHjFHKck8eZJvQBjOoNCiniD3nB6skf2J6UGm7eGqZr4vFcGfQmhNS53SyHQTCrX/eT3pxEzgvog4LmIWIMRTZmPKftHDEGY8TA6M+/+oCgK383ris3FPvgjCnjO1IVaQ6jD1c/LmEY5hXhm5aEZrdAFIyEz2PEOSYx63SsCKThBdfIvEDOwOgMU4Z+dogoisCI0wr9nFozjzrhp3vP95WBCfogexiCo+4rEAeKqMrCcCDII036g31rOlhYFN8I4qAP0sczURyq2kCVhkNVEcVh97K7uP9k2AFGiEOcMjAC5jyz5fA0thYHiz/Pp1PdinUz1sFnRx/ReJf+hpgzoAvWW8neYrzRn9nuYtglnGNbnT2beXtMpFk5Jub2If0/QbpcTS61n6W3jRpGrRxrVzQM0ZnZxyNVLhD3Zs9T8S3aebplTZlaHa9baXHzNrVoIThm0TFI6SyUbDfhLlucliXL3xJj9dJVi1CNQ/RrsSe7F/B4LKK2B2fXQx3hiZDGpd+8HfxZZY01zVvSfD7V7GpeNXX5XN/ycSxsjyYbt2v1+qar1Nxfdj5sD1IiKIu9PdB/hPYxNOmPzwo/4tR51W3PGD1mn8DOwf/27p14FzHh3v8F48dv8i8TaYRDanrljS6TxXYbC/EymDirtZK9OZdeW6/KeSovzDKWm6QF9/tffVCkkJ9zmoERgCSiOY5AH9C86jLrkHP+m2KmnjjGKna7zlPIuP45B1ucIcZhVoCRqGqyrGrCs3D/G67dgMI9BwAA',
+    newsletterJid: '120363160757210405@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot',
+    packname: 'Evil Imranos Bot',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
@@ -81,10 +81,10 @@ module.exports = {
     },
     
     // Timezone
-    timezone: 'Asia/Kolkata',
+    timezone: 'Africa/Morrocco',
     
     // Limits
-    maxWarnings: 3,
+    maxWarnings: 4,
     
     // Social Links (optional)
     social: {
